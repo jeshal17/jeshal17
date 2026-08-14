@@ -5,11 +5,9 @@
 </div>
 
 ## About Me
-
 I enjoy experimenting with new tools, solving problems, and turning ideas into useful things. I love building, but I also enjoy teaching and sharing what I learn along the way.
 
 ## My Toolkit
-
 <p align="left">
 
 <img src="https://img.shields.io/badge/Python-31543F?style=for-the-badge&logo=python&logoColor=white"/>
@@ -17,21 +15,16 @@ I enjoy experimenting with new tools, solving problems, and turning ideas into u
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-527A5D?style=for-the-badge&logo=powerbi&logoColor=white"/>
 
-<br>
-
 <img src="https://img.shields.io/badge/Streamlit-31543F?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-477A5B?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-3F6B50?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-527A5D?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<br>
 
 <img src="https://img.shields.io/badge/NLP-31543F?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-477A5B?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-3F6B50?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-527A5D?style=for-the-badge&logo=figma&logoColor=white"/>
-
-<br>
 
 <img src="https://img.shields.io/badge/Notion-31543F?style=for-the-badge&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-477A5B?style=for-the-badge&logo=canva&logoColor=white"/>
