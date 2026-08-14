@@ -14,16 +14,6 @@ I enjoy experimenting with new tools, solving problems, and turning ideas into u
 
 <br>
 
-<!-- Animated Wave Divider -->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%">
-
-</div>
-
-<br>
-
 ## My Toolkit
 
 <p align="center">
