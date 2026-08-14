@@ -1,204 +1,81 @@
 <div align="center">
 
-# 🌿 Jeshal Mathias
+# Jeshal Mathias
 
 ### Curious about how things work, why they matter, and who they're for.
 
-Final-year BCA student exploring data, analytics, AI and technology.
+**BCA Student · Analytics · AI · Technology**
 
 </div>
 
-<br>
-
-<table>
-<tr>
-
-<td width="50%" bgcolor="#D8E8DC">
+---
 
 ### About Me
 
-I enjoy understanding problems, working with data, and turning ideas into things that are simple and useful.
+I'm a final-year BCA student who enjoys working with data, exploring technology,
+and turning ideas into things that are actually useful.
 
-I like learning by experimenting and finding my own way of making things work.
+I like learning by experimenting — whether that's building a dashboard,
+trying out an ML model, or figuring out a new tool.
 
-</td>
+---
 
-<td width="50%" bgcolor="#EEF4E8">
+### My Toolkit
 
-### Outside the Screen
+<p align="center">
 
-I enjoy creative things just as much as technical ones.
-
-**Crafting · Baking · Designing · Exploring new ideas**
-
-Sometimes I like making things with code.  
-Sometimes I just like making things.
-
-</td>
-
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Python-1F4D3A?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-2E6B4A?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-2E6B4A?style=for-the-badge&logo=powerbi&logoColor=white">
 
 <br>
+
+<img src="https://img.shields.io/badge/Streamlit-1F4D3A?style=for-the-badge&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-3A7355?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-2E6B4A?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-3A7355?style=for-the-badge&logo=css3&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/NLP-477A5B?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Java-1F4D3A?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Git-2E6B4A?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-477A5B?style=for-the-badge&logo=figma&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/Notion-31543F?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Canva-3A7355?style=for-the-badge&logo=canva&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-2E6B4A?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/Android%20Studio-477A5B?style=for-the-badge&logo=androidstudio&logoColor=white">
+
+</p>
+
+---
+
+### What I'm Into
+
+| Analytics | AI & NLP | Project Work |
+|:---:|:---:|:---:|
+| Data & dashboards | Machine Learning | Project Management |
+| Power BI | NLP | Planning & coordination |
+| Excel | Language models | Turning ideas into projects |
+
+---
+
+### Outside Tech
+
+I enjoy **crafting, baking, designing, and making things**.
+
+I like creative work because it gives me a completely different way
+of thinking — sometimes the best ideas come when I'm doing something
+that has nothing to do with code.
+
+---
 
 <div align="center">
 
-## 🧰 My Toolkit
-
-</div>
-
-<table align="center">
-<tr>
-
-<td align="center" width="25%" bgcolor="#BFD8C5">
-
-**Python**
-
-</td>
-
-<td align="center" width="25%" bgcolor="#D5E7D8">
-
-**SQL**
-
-</td>
-
-<td align="center" width="25%" bgcolor="#E5EEDC">
-
-**Excel**
-
-</td>
-
-<td align="center" width="25%" bgcolor="#C8DEC9">
-
-**Power BI**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" bgcolor="#D5E7D8">
-
-**Streamlit**
-
-</td>
-
-<td align="center" bgcolor="#BFD8C5">
-
-**JavaScript**
-
-</td>
-
-<td align="center" bgcolor="#E5EEDC">
-
-**HTML**
-
-</td>
-
-<td align="center" bgcolor="#C8DEC9">
-
-**CSS**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" bgcolor="#C8DEC9">
-
-**NLP**
-
-</td>
-
-<td align="center" bgcolor="#E5EEDC">
-
-**Java**
-
-</td>
-
-<td align="center" bgcolor="#BFD8C5">
-
-**Git**
-
-</td>
-
-<td align="center" bgcolor="#D5E7D8">
-
-**Figma**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" bgcolor="#E5EEDC">
-
-**Notion**
-
-</td>
-
-<td align="center" bgcolor="#C8DEC9">
-
-**Canva**
-
-</td>
-
-<td align="center" bgcolor="#BFD8C5">
-
-**Jira**
-
-</td>
-
-<td align="center" bgcolor="#D5E7D8">
-
-**Android Studio**
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-
-<td width="33%" bgcolor="#C8DEC9">
-
-### Analytics
-
-Working with data, dashboards and visualisation to find useful insights.
-
-</td>
-
-<td width="33%" bgcolor="#E5EEDC">
-
-### Technology
-
-Exploring AI, NLP, software development and cloud technologies.
-
-</td>
-
-<td width="33%" bgcolor="#BFD8C5">
-
-### Project Work
-
-Interested in planning, building and turning ideas into working projects.
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-### 🌱
-
-`build` · `learn` · `experiment`
+### `build` · `learn` · `experiment`
 
 </div>
