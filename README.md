@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:31543F,50:527A5D,100:9DB9A5&height=190&section=header&text=Jeshal%20Mathias&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Curious%20about%20how%20things%20work%2C%20why%20they%20matter%2C%20and%20who%20they're%20for.&descSize=15&descAlignY=62&descAlign=30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:31543F,50:527A5D,100:9DB9A5&height=190&section=header&text=Jeshal%20Mathias&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Curious%20about%20how%20things%20work%2C%20why%20they%20matter%2C%20and%20who%20they're%20for.&descSize=15&descAlignY=62&descAlign=50"/>
 </div>
 
 ### About Me : 
