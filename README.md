@@ -1,34 +1,51 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=8B5E3C&center=true&vCenter=true&width=460&lines=hi%2C+i'm+jeshal+%F0%9F%8D%82;curious+by+default" alt="typing"/>
+  <img src="./assets/banner.svg" width="100%" alt="banner"/>
 </p>
+
+<table>
+<tr>
+<td width="140" valign="top">
+  <img src="https://avatars.githubusercontent.com/u/173875224?v=4" width="120" style="border-radius:50%"/>
+</td>
+<td valign="top">
+
+### 🌰 about me
+Final-year BCA student who's curious about how things work, why they matter, and who they're actually for. I turn messy data and vague asks into things people can actually use — dashboards, tools, small automations, whatever the problem needs.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧡 my favorites
+- Turning a messy dataset into a clean answer
+- Explaining something technical and watching it click
+- Upcycling — old materials, scrap, "waste," made worth keeping
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ toolkit
+`Python` · `SQL` · `Power BI`
+`Excel` · `Streamlit` · `Mixpanel`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🎉 fun facts
+- Trained 50+ students in Python & AI — turns out I like teaching almost as much as building
+
+<br>
 
 <p align="center">
   <a href="https://linkedin.com/in/jeshal-mathias"><img src="https://img.shields.io/badge/LinkedIn-6F4E37?style=for-the-badge&logo=linkedin&logoColor=EFE3D0"/></a>
   <a href="mailto:jeshalmathias8@gmail.com"><img src="https://img.shields.io/badge/Email-A9746E?style=for-the-badge&logo=gmail&logoColor=EFE3D0"/></a>
 </p>
-
-<br>
-
-### 🌰 what i'm curious about
-How things work. Why they matter. Who they're actually for. I'm a final-year BCA student who ends up asking these three questions about pretty much everything — a dataset, a product, a broken process — and usually can't stop until I've got an answer.
-
-<br>
-
-### 🪵 what i build
-- **Navigation Risk Model** — four ML models + a rules layer, boiled into one simple risk score
-- **User Analytics Dashboard** — 5,000+ raw reviews turned into a live sentiment & KPI view
-- **[EduWell](https://github.com/jeshal17/Eduwell---Student-wellnes-streamlit-website)** — a student wellness app built from real user interviews, not a spec sheet
-
-<br>
-
-### 🔨 how i build
-Start with the person who needs the answer, not the tool. Gather requirements properly, prototype fast, and don't call it done until someone non-technical can actually use it. `Python` · `SQL` · `Power BI` · `Excel` · `Streamlit` · `Mixpanel`
-
-<br>
-
-### 🌾 outside of that
-I like taking things that seem used up — old materials, scrap, "waste" — and turning them into something worth keeping. Same instinct I bring to messy data, honestly: nothing's really trash until you've looked at it properly.
-
-<br>
-
-<p align="center"><i>always up for a conversation about data, design, or a good upcycling project ☕</i></p>
