@@ -3,9 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:31543F,50:527A5D,100:9DB9A5&height=190&section=header&text=Jeshal%20Mathias&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Curious%20about%20how%20things%20work%2C%20why%20they%20matter%2C%20and%20who%20they're%20for.&descSize=15&descAlignY=62&descAlign=50"/>
 
 </div>
+<br>
 
+<img src="./profile-art.png" width="300">
+
+</div>
 ## About Me
-I enjoy learning by experimenting, solving problems, and turning ideas into something useful.
+I enjoy experimenting with new tools, solving problems,and turning ideas into useful things. I love building,but I also enjoy teaching and sharing what I learn
+along the way.
 
 ## My Toolkit
 
