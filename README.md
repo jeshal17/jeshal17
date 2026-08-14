@@ -4,10 +4,10 @@
 
 </div>
 
-## About Me
+### About Me
 I enjoy experimenting with new tools, solving problems, and turning ideas into useful things. I love building, but I also enjoy teaching and sharing what I learn along the way.
 
-## My Toolkit
+### My Toolkit
 <p align="left">
 
 <img src="https://img.shields.io/badge/Python-31543F?style=for-the-badge&logo=python&logoColor=white"/>
