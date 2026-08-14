@@ -5,10 +5,6 @@
 </div>
 
 ## About Me
-
-Curious about how things work, why they matter, and who they're for.
-
-I'm a final-year BCA student exploring **data, analytics, AI and technology**.
 I enjoy learning by experimenting, solving problems, and turning ideas into something useful.
 
 ## My Toolkit
